@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 import com.pluralsight.fundamental.entity.Application;
-import com.pluralsight.fundamental.respositoty.ApplicationRepository;
+import com.pluralsight.fundamental.respository.ApplicationRepository;
 
 @SpringBootApplication
 public class FundamentalApplication {

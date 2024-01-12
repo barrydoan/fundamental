@@ -1,4 +1,4 @@
-package com.pluralsight.fundamental.respositoty;
+package com.pluralsight.fundamental.respository;
 
 import org.springframework.data.repository.CrudRepository;
 
